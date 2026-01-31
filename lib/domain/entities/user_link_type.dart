@@ -1,0 +1,1 @@
+enum UserLinkType { linkedUser, guest }
